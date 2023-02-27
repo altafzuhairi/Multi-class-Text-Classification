@@ -1,4 +1,4 @@
-# Multi-class Text Classification
+# Multi-class Text Classification (NLP)
 # 1. Summary
 The aim of this project is to categorize unseen articles into 5 categories namely Sport, Tech, Business, Entertainment and Politics. Deep learning model is trained and deployed for this task. The dataset is acquired from https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv
 # 2. IDE and Framework
